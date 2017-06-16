@@ -1,0 +1,1 @@
+This is a sandbox for playing with Jenkins, code, automated tests and Jenkinsfile.
